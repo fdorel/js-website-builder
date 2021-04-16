@@ -9,9 +9,9 @@ export const model = [
   new TitleBlock('Vanilla Javascript Website Builder', {
     tag: 'h2',
     styles: {
-      background: '#493240',
+      background: '#483250',
       color: '#fff',
-      padding: '1.5rem',
+      padding: '1.6rem',
       'text-align': 'center'
     }
   }),
