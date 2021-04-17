@@ -19,7 +19,7 @@ export class Sidebar {
       block('TEXT'),
       block('TITLE'),
       block('CONTENT'),
-      block('IMAGE')
+      block
     ].join('')
   }
 
