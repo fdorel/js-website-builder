@@ -13,7 +13,7 @@ export class Sidebar {
     this.$el.insertAdjacentHTML('afterbegin', this.template)
     this.$el.addEventListener('submit', this.add.bind(this))
   }
-
+// adding styles to the page
   get template() {
     return [
       block('TEXT'),
