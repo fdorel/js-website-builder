@@ -30,7 +30,7 @@ export const model = [
       width: '100%',
       height: '100%'
     },
-    alt: 'Это картинка'
+    alt: 'This is an image'
   }),
   new ColumnsBlock([
     'A simple app made with Javascript, without using any libraries',
