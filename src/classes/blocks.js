@@ -2,8 +2,8 @@ import {col, css, row} from '../utils'
 
 class Block {
   constructor(value, options) {
-    this.value = value;
-    this.options = options;
+    this.value = value
+    this.options = options
   }
 
   toHTML() {
@@ -13,7 +13,7 @@ class Block {
 
 export class TitleBlock extends Block {
   constructor(value, options) {
-    super(value, options);
+    super(value, options)
   }
 
   toHTML() {
