@@ -1,6 +1,6 @@
 #app {
   position: relative;
-  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .content {
